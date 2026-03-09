@@ -64,7 +64,7 @@ Where:
 The model predictions are evaluated by comparing **actual vs predicted values**.
 
 A perfect model would lie along the diagonal line.
-![Prediction Plot](images/actual_predicted.png)
+![Actual vs Predicted](actual_predicted.png)
 
 
 ## Example Usage
