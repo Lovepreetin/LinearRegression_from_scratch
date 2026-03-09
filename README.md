@@ -5,6 +5,17 @@ This repository contains Linear Regression implemented from scratch using NumPy.
 
 The goal of this project is to deeply understand the mathematical foundations and optimization techniques behind machine learning models without relying on high-level libraries such as scikit-learn.
 
+## Dataset
+
+The model is trained on a housing dataset containing features such as:
+
+- number of bedrooms
+- number of bathrooms
+- square footage
+- location related attributes
+
+The goal is to predict house prices using linear regression.
+
 ## What This Project Demonstrates
 
 - Implementation of Linear Regression using only NumPy
