@@ -1,5 +1,5 @@
 
-#Linear Regression Model From Scratch
+## Linear Regression Model From Scratch
 
 This repository contains Linear Regression implemented from scratch using NumPy.
 
